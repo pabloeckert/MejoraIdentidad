@@ -6,7 +6,7 @@ license: Uso interno — Mejora Continua
 
 # Manual de Marca — Mejora Continua
 
-Documento vivo, edición 2026 v1.1. Ante cualquier duda de aplicación, priorizar el Criterio Medular sobre cualquier regla puntual de esta guía.
+Documento vivo, edición 2026 v1.2. Ante cualquier duda de aplicación, priorizar el Criterio Medular sobre cualquier regla puntual de esta guía.
 
 ## Criterio Medular (manda sobre todo lo demás)
 
@@ -75,6 +75,21 @@ Lo que el tono NO es: no es agresivo (señala sin atacar), no es motivacional va
 
 "El dueño de una empresa no es una empresa. Es una persona. Con dudas, con miedos, con sueños. Con el peso de las decisiones que nadie más ve." Mejora Continua acompaña líderes — no empresas — para que sean más ellos mismos. Pedir ayuda no es debilidad, es la decisión más inteligente que puede tomar un líder.
 
+## Valores
+
+Ocho valores, con el mismo peso puertas afuera (cliente) y puertas adentro (equipo y asociados) — no son solo discurso de cara al cliente.
+
+1. Cercanía — trabajamos con personas, no con empresas.
+2. Confianza — vínculos que se construyen semana a semana, no de un día para el otro.
+3. Compromiso — acompañar de verdad, no solo asesorar.
+4. Resultados concretos — traducir conocimiento en avances reales.
+5. Autenticidad — menos vueltas, más honestidad directa.
+6. Trabajo en equipo — el avance se sostiene entre todos, no en soledad.
+7. Respeto — se confronta la situación, nunca a la persona.
+8. Claridad — no motiva, no vende: clarifica.
+
+Detalle completo de cada uno en `referencias/valores.pdf`.
+
 ## Público — 8 perfiles
 
 Se segmenta por estado mental y nivel de responsabilidad, no por edad/industria/género. Ninguno busca motivación, todos buscan claridad. Los tres primeros lideran la comunicación de marca:
@@ -126,7 +141,7 @@ Evaluación vigente de tendencias de diseño contra el resto de este manual. Se 
 ## Referencias completas
 
 Este archivo es el resumen operativo. Para el detalle completo de cada tema, están los documentos originales en `referencias/`:
-`criterio_medular.pdf`, `identidad_visual.pdf`, `tono_y_voz.pdf`, `manifiesto.pdf`, `modalidades_de_acompanamiento.pdf`, `segmentacion_y_publico.pdf`, `servicios_y_areas_de_impacto.pdf`, `arquitectura_de_contenido.pdf`, `perfiles_comerciales.pdf` y `buyer_personas/` (los 8 perfiles en detalle). Consultarlos cuando la tarea lo requiera — no hace falta leerlos para aplicar las reglas de este resumen.
+`criterio_medular.pdf`, `identidad_visual.pdf`, `valores.pdf`, `tono_y_voz.pdf`, `manifiesto.pdf`, `modalidades_de_acompanamiento.pdf`, `segmentacion_y_publico.pdf`, `servicios_y_areas_de_impacto.pdf`, `arquitectura_de_contenido.pdf`, `perfiles_comerciales.pdf` y `buyer_personas/` (los 8 perfiles en detalle). Consultarlos cuando la tarea lo requiera — no hace falta leerlos para aplicar las reglas de este resumen.
 
 ---
 
