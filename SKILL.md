@@ -6,7 +6,7 @@ license: Uso interno — Mejora Continua
 
 # Manual de Marca — Mejora Continua
 
-Documento vivo, edición 2026 v1. Ante cualquier duda de aplicación, priorizar el Criterio Medular sobre cualquier regla puntual de esta guía.
+Documento vivo, edición 2026 v1.1. Ante cualquier duda de aplicación, priorizar el Criterio Medular sobre cualquier regla puntual de esta guía.
 
 ## Criterio Medular (manda sobre todo lo demás)
 
@@ -109,6 +109,19 @@ Mismo marco que usa MejoraDiagnóstico — coherencia entre sitio y herramienta.
 | Proceso de Transformación | Compromiso profundo — encuentros frecuentes, individuales y grupales, herramientas a medida, seguimiento continuo. |
 
 Estos tres niveles no son solo formatos de servicio: definen también la intensidad del tono de marca (ver tabla de Tono y voz arriba).
+
+## Tendencias UI — criterio de aplicación (2026)
+
+Evaluación vigente de tendencias de diseño contra el resto de este manual. Se actualiza esta sección cuando cambien las tendencias o el producto lo exija — no reabrir las secciones anteriores para esto.
+
+| Tendencia | Estado | Regla de aplicación |
+|---|---|---|
+| IA como Copiloto Reflexivo | Adoptada | Todo asistente de IA en producto (Consejo, MejoraSM, futuros) sigue el Criterio Medular: nombra sin juzgar, mueve el foco de la persona a la estructura, cierra con dirección concreta — nunca con reto. Es un copiloto con este patrón, no un "asistente IA" genérico. |
+| Tipografía Expresiva y Grande | Adoptada | Escalar Bw Modelica Medium en títulos de landing y dashboards. No reemplaza la regla de cuerpo (Regular, mínimo text-gray-700 en mobile). |
+| Bento Grids | Adoptada — solo producto | Sí en dashboards y herramientas (admin, command dashboard, Consejo). No en la landing de mejoraok.com — la landing es mensaje directo, no inventario de features. |
+| Glassmorfismo Fluido (Liquid Glass) | Adoptada — receta acotada | Solo blanco translúcido + blur bajo, sin gradiente de color de fondo, solo en paneles flotantes de dashboards. Nunca como estética general: un gradiente de color dominante rompe la regla de "blanco base siempre" de la sección Color. |
+| UI Generativa / Diseño Adaptativo | Adoptada — con límite | La variación va en el contenido (copy, orden, perfil), nunca en el sistema visual. El isotipo y la grilla no se generan ni recomponen dinámicamente — ver regla de Logotipo. |
+| Interfaces Espaciales (Spatial UI) | Descartada | Sin caso de uso en el stack actual (Next.js, WhatsApp, dashboards web). No reevaluar salvo pivot a producto inmersivo. |
 
 ## Referencias completas
 
