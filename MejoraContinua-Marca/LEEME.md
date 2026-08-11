@@ -57,7 +57,7 @@ Las tres decisiones abiertas quedaron cerradas y confirmadas por Sindy: el manif
 
 Submarcas descontinuadas: Mejora Continua Web TV, Fuckup Nights Posadas y Buenas Historias. After Office queda como posible retoma futura, fuera de foco.
 
-Pendiente para una próxima edición: papelería física (tarjetas, membrete, sobres) y cartelería de oficina.
+Papelería física (tarjetas, membrete, sobres) y cartelería de oficina están dentro del alcance del manual, igual que las piezas digitales — ver Criterio Medular.
 
 ---
 
