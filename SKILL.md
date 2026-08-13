@@ -1,6 +1,6 @@
----
+﻿---
 name: mejora-continua-brand
-description: Aplica el manual de marca de Mejora Continua (mejoraok.com) a cualquier pieza — landing, deck, documento, artifact, post. Cubre criterio medular, paleta de color, tipografía, logo, tono de voz, público y framework de servicios. Usar siempre que se genere contenido o diseño con la identidad de Mejora Continua.
+description: Aplica el manual de marca de Mejora Continua (mejoraok.com) a cualquier pieza de comunicación — landing, deck, mail, firma, post, propuesta, certificado, headline, o cualquier otro formato — siempre que sea para Mejora Continua, no para otras marcas o clientes de consultoría. Cubre criterio medular, paleta de color, tipografía, logo, tono de voz, los 8 perfiles de público y framework de servicios. Usar también cuando el pedido dice 'nuestro tono', 'nuestra identidad' o 'como nosotros' sin nombrar la marca explícitamente, en el contexto de trabajo de Pablo o Sindy para Mejora Continua.
 license: Uso interno — Mejora Continua
 ---
 
